@@ -1,3 +1,4 @@
+![API Tests](https://github.com/mernaaamer/restful-booker-api-testing/actions/workflows/api-tests.yml/badge.svg)
 # Restful-Booker API Testing
 
 Manual and automated API testing project for the Restful-Booker API (https://restful-booker.herokuapp.com), built as part of my QA portfolio.
